@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sami_sindhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sami_sindhi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samiullah kalhoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiullah kalhoro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samiullah-kalhoro-84a5ab1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiullah kalhoro" height="30" width="40" /></a>
 <a href="https://fb.com/samiullah kalhoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiullah kalhoro" height="30" width="40" /></a>
 <a href="https://instagram.com/samiullah sindhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiullah sindhi" height="30" width="40" /></a>
 </p>
