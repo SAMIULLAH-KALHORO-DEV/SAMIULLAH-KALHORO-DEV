@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samiullah Kalhoro</h1>
 <h3 align="center">A visionary Flutter developer having more than 2 year of proficiency in building Flutter Applications</h3>
 
-- 🔭 I’m currently working on [Zoom Clone](https://github.com/SAMIULLAH-KALHORO-DEV/zoom_clone)
 
-- 🌱 I’m currently learning **Flutter, Firebase, Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SAMIULLAH-KALHORO-DEV](https://github.com/SAMIULLAH-KALHORO-DEV)
-
-- 💬 Ask me about **Flutter, Dart, Firebase, Laravel,**
-
-- 📫 How to reach me **samiullahabbasy@gmail.com**
 
 - **About Me**
-- A visionary Flutter developer having more than 2 year of proficiency in building Flutter Front-End UI designs, integration, coding Architectural design, Testing for Android, IOS and Web Apps, Created 60+ fully functional and Responsive Applications for Android, IOS and Web Apps. 
+<h3 align="left"> A visionary Flutter developer having more than 2 year of proficiency in building Flutter Front-End UI designs, integration, coding Architectural design, Testing for Android, IOS and Web Apps, Created 60+ fully functional and Responsive Applications for Android, IOS and Web Apps. 
 
   Create Applications using a proper methodology for reusable Code and maintainable in Future Known for writing efficient, responsive design, data structures, problem-solving Connoisseur in the       
-  responsiveness and interaction between various devices and versions of Android, IOS
+  responsiveness and interaction between various devices and versions of Android, IOS</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
