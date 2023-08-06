@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiullah Kalhoro</h1>
 
 
- A visionary Flutter developer having more than 2 year of proficiency in building Flutter Front-End UI designs, integration, coding Architectural design, Testing for Android, IOS and Web Apps, Created 60+ fully functional and Responsive Applications for Android, IOS and Web Apps. 
+ A visionary Flutter developer having more than 2 year of proficiency in building Flutter FrontEnd UI designs, integration, coding Architectural design, Testing for Android, IOS and Web Apps, Created 60+ fully functional and Responsive Applications for Android, IOS and Web Apps. 
 
   Create Applications using a proper methodology for reusable Code and maintainable in Future Known for writing efficient, responsive design, data structures, problem-solving Connoisseur in the responsiveness and interaction between various devices and versions of Android, IOS
 
